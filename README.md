@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brxtty Potter</h1>
 <h3 align="center">A passionate Full-Stack-Developer from Germany</h3>
 
-- 🔭 I’m currently working on [LightningRP](https://discord.gg/lightningrp)
+- 🔭 I’m currently working on [LightningRP](https://discord.gg/lightningrp) and [Emirate City](https://discord.gg/WJa868BMAH)
 - 📫 How to reach me **https://discord.com/users/1152373723249246218/**
 
 <h3 align="left">Languages and Tools:</h3>
